@@ -1,1 +1,1 @@
-# DesignPatterns_in_typescript
+# Design Patterns (Typescript) 
