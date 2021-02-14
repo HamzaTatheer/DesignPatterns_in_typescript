@@ -1,0 +1,2 @@
+#ignore all js files as we only need ts files
+*.js
